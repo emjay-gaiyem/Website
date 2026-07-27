@@ -1,3 +1,3 @@
 # Website
 HTML only!
-Click hear: Website/index.html
+Click hear: Website
